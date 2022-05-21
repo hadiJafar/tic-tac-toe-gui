@@ -1,4 +1,4 @@
-This is a simple GUI tic tac toe game designed in java.
+This is a simple GUI tic tac toe game designed in java and uses JPanel extensively.
 
 ## Getting Started
 
@@ -18,4 +18,4 @@ The game consists of 4 pages:
 
 Use your mouse to play the game and explore all the screens!!
 
-Most importsntly, have fun playing the game :)
+Most importantly, have fun playing the game :)
